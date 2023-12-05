@@ -1,6 +1,10 @@
+#Linear Regression in 1 variable- Income vs Happiness
+#Last Update- Dec 5, 2023
+
 library(tidyverse)
 library(broom)
 library(caTools) #for sample.split()
+
 
 #working directory
 wd <- getwd()
